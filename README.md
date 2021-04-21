@@ -8,3 +8,4 @@ Esta linha alterei diretamento no site, Maluco!
 Inclusão de mais um texto no README.
 
 Inclusão de OBS: Teste
+inclusão de Teste2
