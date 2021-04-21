@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula ao vivo!
 
-Esta linha alterie diretamento no site, Maluco!
+Esta linha alterei diretamento no site, Maluco!
